@@ -1,0 +1,56 @@
+[
+  {
+    "userId": "16d15708-4e81-455f-8cec-af76198f02ab",
+    "userName": "Ali",
+    "messageBody": "I too",
+    "timeStamp": "2025-03-05T18:36:50.890Z"
+  },
+  {
+    "userId": "deb6d210-b764-4dd0-ada6-d5f98ef1dd2b",
+    "userName": "Ali",
+    "messageBody": "Imran",
+    "timeStamp": "2025-03-05T18:51:45.507Z"
+  },
+  {
+    "userId": "f5df1a7b-3772-4101-bbae-9a597e60b4b3",
+    "userName": "Imran",
+    "messageBody": "Hy nice meeting you",
+    "timeStamp": "2025-03-05T18:51:52.670Z"
+  },
+  {
+    "userName": "System",
+    "messageBody": "Imran left the chat",
+    "timeStamp": "2025-03-05T18:51:59.855Z",
+    "isSystem": true
+  },
+  {
+    "userId": "b39ca733-f181-4178-b713-af7122eb2246",
+    "userName": "Imran",
+    "messageBody": "Hye",
+    "timeStamp": "2025-03-05T18:54:47.034Z"
+  },
+  {
+    "userId": "deb6d210-b764-4dd0-ada6-d5f98ef1dd2b",
+    "userName": "Ali",
+    "messageBody": "hy",
+    "timeStamp": "2025-03-05T18:58:22.946Z"
+  },
+  {
+    "userId": "deb6d210-b764-4dd0-ada6-d5f98ef1dd2b",
+    "userName": "Ali",
+    "messageBody": "hy",
+    "timeStamp": "2025-03-05T19:03:18.285Z"
+  },
+  {
+    "userId": "deb6d210-b764-4dd0-ada6-d5f98ef1dd2b",
+    "userName": "Ali",
+    "messageBody": "Imran",
+    "timeStamp": "2025-03-05T19:03:23.284Z"
+  },
+  {
+    "userId": "deb6d210-b764-4dd0-ada6-d5f98ef1dd2b",
+    "userName": "Ali",
+    "messageBody": "hello",
+    "timeStamp": "2025-03-05T19:03:38.148Z"
+  }
+]
