@@ -41,8 +41,8 @@ yarn install
 Create a `.env` file in the project root:
 ```
 PORT=5000
-MONGODB_URI= YOUR MONGODB URI
-FRONTEND_URI= YOUR FRONTEND URI
+MONGODB_URI= mongodb://127.0.0.1:27017/db
+FRONTEND_URI= http://localhost:3000
 ```
 
 ### 4. Running the Server
