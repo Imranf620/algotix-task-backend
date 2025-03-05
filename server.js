@@ -16,13 +16,13 @@ const port = process.env.PORT || 4000;
 
 const io = new Server(server, {
   cors: {
-    origin: "http://localhost:3000",
+    origin: process.env.FRONTEND_URI,
     methods: ["GET", "POST"],
   },
 });
 app.use(
   cors({
-    origin: "http://localhost:3000",
+    origin: process.env.FRONTEND_URI,
     methods: ["GET", "POST"],
     credentials: true,
   })

@@ -42,6 +42,7 @@ Create a `.env` file in the project root:
 ```
 PORT=5000
 MONGODB_URI= YOUR MONGODB URI
+FRONTEND_URI= YOUR FRONTEND URI
 ```
 
 ### 4. Running the Server
