@@ -8,7 +8,7 @@ export const socketServer = (io) => {
     socket.on("join", async (data) => {
       socket.userId = data.userId;
       socket.userName = data.userName;
-
+// Online
       onlineUsers.set(socket.id, data);
 
       const systemMessage = {
